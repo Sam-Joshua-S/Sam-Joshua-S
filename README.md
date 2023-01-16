@@ -20,8 +20,8 @@ I am a data scientist with experience in utilizing machine learning techniques t
 ![Sam-Joshua-S's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sam-Joshua-S&theme=highcontrast&hide_border=true)
 
 ## Certifications
-- Machine Learning Engineer, AWS
-- Data Engineering, GCP
+- [Machine Learning, Standford](https://coursera.org/share/1bd100f620e35029edc3601672059494)
+- [Artificial Intelligence A-Z™](http://ude.my/UC-81fd4868-d507-47f1-9d07-e2069e004e30)
 
 ## Contact
 - Email: samjoshua.s2002@gmail.com
