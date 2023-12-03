@@ -12,6 +12,7 @@ I am a data scientist with experience in utilizing machine learning techniques t
 - Tools: Jupyter Notebook, Git, and Linux
 
 ## Projects
+- [CSV with LLM](https://chattingcsv.streamlit.app/): Slow due to insufficiet hardware support
 - [Face and liveness detection](https://github.com/Sam-Joshua-S/Flask-Liviness-detection): Ready to deployable 
 - [Customer Segmentation](https://github.com/Sam-Joshua-S/Capstone-Project): Implemented unsupervised learning techniques to segment customers by purchase behavior. Utilized R, k-means clustering, and PCA.
 - [Mental health prediction](https://github.com/Sam-Joshua-S/metal_health_pred):Mental health prediction uses various techniques such as machine learning algorithms, statistical analysis, and natural language processing on a dataset of psychological or behavioral information to identify patterns and predict an individual's mental health status.
